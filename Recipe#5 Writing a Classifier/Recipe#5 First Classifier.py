@@ -1,5 +1,5 @@
 # This program takes the same code from recipe #4 but replaces the classifer with a self-built classifier called
-# simple KNN which is a simplified version fo the K-nearest-neighbor classifier
+# simple KNN which is a simplified version of the K-nearest-neighbor classifier
 
 from scipy.spatial import distance
 
